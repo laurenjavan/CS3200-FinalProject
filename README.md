@@ -2,6 +2,8 @@
 Team Members: Lauren Javan, Juliann Liang, Addison Pedro
 Section 3
 
+Link to UML Drawing: https://lucid.app/lucidchart/invitations/accept/inv_7b2c6b6c-b044-488d-9a9c-3e2e4637047f?viewport_loc=255%2C-63%2C1474%2C1150%2CHWEp-vi-RSFO
+
 This is a minimal viable product that is similar to how Yelp works where each Patron (user) is able to Rate a Restaurant. In order to create this restaurant rater, we have developed a web application that works with a mySQL database to keep track of ratings for a restaurant from all users. 
 
 The typical users that may use our program is anyone who is passionate about food and creating an online community where people can share their restaurant experiences.
