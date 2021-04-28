@@ -11,7 +11,7 @@ This is a minimal viable product that is similar to how Yelp works where each Pa
 The typical users that may use our program is anyone who is passionate about food and creating an online community where people can share their restaurant experiences. 
 
 **Problem and Solution Statement**<br />
-Choosing a meal can be difficult. Foodies are often curious of what to try next or trying to figure out should be their next meal. This database helps aggregate how Patrons rate a restaurant and showcase the Restaurant's averate rating based on Patrons' ratings. The database can be used in a global sense and be organized based on location so the user can best figure out what to eat and patrons can give their review.
+Choosing a meal can be difficult. Foodies are often curious of what to try next or trying to figure out should be their next meal. This database helps aggregate how Patrons rate a restaurant and showcase the Restaurant's ratings given by their Patrons. The database can be used in a global sense and be organized based on location so the user can best figure out what to eat and patrons can give their review anywhere.
 
 **Domain Objects:**
 - Ratings - An object of this class consists of the score, comment, and creation/update dates. It has two foreign keys, one for patron and one for restaurant.
