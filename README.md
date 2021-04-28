@@ -12,3 +12,6 @@ The typical users that may use our program is anyone who is passionate about foo
 Domain Objects:
 - Ratings - An object of this class consists of the score, comment, and creation/update dates. It has two foreign keys, one for patron and one for restaurant.
 - Restaurants - An object of this class consists of name, location, and the cuisine of the restaurant. The cuisine is an enumerated type.
+
+*NOTE:*
+Please change the name of the schema, username, and password in application.properties under the resources folder. This connects to the SQL database and relies on that to make the webpage work. 
